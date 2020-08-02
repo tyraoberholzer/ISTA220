@@ -1,0 +1,107 @@
+Name: Tyra Oberholzer
+File: lab002b-tyra.txt
+Date: July 1, 2020
+
+Microsoft Windows [Version 10.0.18363.900]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Tyra>cd C:\Users\Tyra\quantico06
+
+C:\Users\Tyra\quantico06>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DCE9-E2BB
+
+ Directory of C:\Users\Tyra\quantico06
+
+2020-07-01  10:44 AM    <DIR>          .
+2020-07-01  10:44 AM    <DIR>          ..
+2020-07-01  10:37 AM             5,740 help.txt
+2020-07-01  10:32 AM    <DIR>          ISTA420
+               1 File(s)          5,740 bytes
+               3 Dir(s)  92,352,765,952 bytes free
+
+C:\Users\Tyra\quantico06>mkdir ISTA220
+
+C:\Users\Tyra\quantico06>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DCE9-E2BB
+
+ Directory of C:\Users\Tyra\quantico06
+
+2020-07-01  10:55 AM    <DIR>          .
+2020-07-01  10:55 AM    <DIR>          ..
+2020-07-01  10:37 AM             5,740 help.txt
+2020-07-01  10:55 AM    <DIR>          ISTA220
+2020-07-01  10:32 AM    <DIR>          ISTA420
+               1 File(s)          5,740 bytes
+               4 Dir(s)  92,352,499,712 bytes free
+
+C:\Users\Tyra\quantico06>cd ISTA220
+
+C:\Users\Tyra\quantico06\ISTA220>mkdir Exercises
+
+C:\Users\Tyra\quantico06\ISTA220>mkdir Labs
+
+C:\Users\Tyra\quantico06\ISTA220>mkdir Homwork
+
+C:\Users\Tyra\quantico06\ISTA220>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DCE9-E2BB
+
+ Directory of C:\Users\Tyra\quantico06\ISTA220
+
+2020-07-01  10:55 AM    <DIR>          .
+2020-07-01  10:55 AM    <DIR>          ..
+2020-07-01  10:55 AM    <DIR>          Exercises
+2020-07-01  10:55 AM    <DIR>          Homwork
+2020-07-01  10:55 AM    <DIR>          Labs
+               0 File(s)              0 bytes
+               5 Dir(s)  92,352,434,176 bytes free
+
+C:\Users\Tyra\quantico06\ISTA220>notepad lab002b-tyra.txt
+
+C:\Users\Tyra\quantico06\ISTA220>cd ..
+
+C:\Users\Tyra\quantico06>cd ISTA420
+
+C:\Users\Tyra\quantico06\ISTA420>cd labs
+
+C:\Users\Tyra\quantico06\ISTA420\labs>notepad lab00b-tyra.txt
+
+C:\Users\Tyra\quantico06\ISTA420\labs>cd ..\..
+
+C:\Users\Tyra\quantico06>cd ISTA220
+
+C:\Users\Tyra\quantico06\ISTA220>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DCE9-E2BB
+
+ Directory of C:\Users\Tyra\quantico06\ISTA220
+
+2020-07-01  10:58 AM    <DIR>          .
+2020-07-01  10:58 AM    <DIR>          ..
+2020-07-01  10:55 AM    <DIR>          Exercises
+2020-07-01  10:55 AM    <DIR>          Homwork
+2020-07-01  11:00 AM             1,920 lab002b-tyra.txt
+2020-07-01  10:55 AM    <DIR>          Labs
+               1 File(s)          1,920 bytes
+               5 Dir(s)  92,354,887,680 bytes free
+
+C:\Users\Tyra\quantico06\ISTA220>move lab002b-tyra.txt Labs
+        1 file(s) moved.
+
+C:\Users\Tyra\quantico06\ISTA220>cd Labs
+
+C:\Users\Tyra\quantico06\ISTA220\Labs>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DCE9-E2BB
+
+ Directory of C:\Users\Tyra\quantico06\ISTA220\Labs
+
+2020-07-01  11:00 AM    <DIR>          .
+2020-07-01  11:00 AM    <DIR>          ..
+2020-07-01  11:00 AM             1,920 lab002b-tyra.txt
+               1 File(s)          1,920 bytes
+               2 Dir(s)  92,354,953,216 bytes free
+
+C:\Users\Tyra\quantico06\ISTA220\Labs>
