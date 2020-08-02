@@ -1,0 +1,7 @@
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\obj\Debug\CSharpEx01-Tyra.csprojAssemblyReference.cache
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\obj\Debug\CSharpEx01-Tyra.csproj.CoreCompileInputs.cache
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\bin\Debug\CSharpEx01-Tyra.exe.config
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\bin\Debug\CSharpEx01-Tyra.exe
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\bin\Debug\CSharpEx01-Tyra.pdb
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\obj\Debug\CSharpEx01-Tyra.exe
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\CSharpEx01-Tyra\obj\Debug\CSharpEx01-Tyra.pdb
