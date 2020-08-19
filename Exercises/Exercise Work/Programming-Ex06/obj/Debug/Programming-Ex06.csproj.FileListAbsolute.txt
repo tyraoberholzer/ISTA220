@@ -1,0 +1,7 @@
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\bin\Debug\Programming-Ex06.exe.config
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\bin\Debug\Programming-Ex06.exe
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\bin\Debug\Programming-Ex06.pdb
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\obj\Debug\Programming-Ex06.csprojAssemblyReference.cache
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\obj\Debug\Programming-Ex06.csproj.CoreCompileInputs.cache
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\obj\Debug\Programming-Ex06.exe
+C:\Users\Tyra\quantico06\ISTA220\Exercises\Exercise Work\Programming-Ex06\obj\Debug\Programming-Ex06.pdb

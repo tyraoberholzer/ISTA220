@@ -1,0 +1,7 @@
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\Tyra\quantico06\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
