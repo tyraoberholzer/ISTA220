@@ -22,9 +22,9 @@ namespace programexe06_Juarez
             int countA = A.Length;
             int SumA = A.Sum();
             double AvgA = SumA / countA;
-            Console.WriteLine($"The count of array A is {countA}. " +
-                              $"\nThe Sum of array A is {SumA}. " +
-                              $"\nThe average of array A is {AvgA}");
+            Console.WriteLine($"The count of Srray A is {countA}. " +
+                              $"\nThe sum of Array A is {SumA}. " +
+                              $"\nThe average of Array A is {AvgA}");
             ReverseArray(A);
             Rotate(A, 2, true);
 
@@ -33,9 +33,9 @@ namespace programexe06_Juarez
             int countB = B.Length;
             int SumB = B.Sum();
             double AvgB = SumB / countB;
-            Console.WriteLine($"The count of array B is {countB}. " +
-                              $"\nThe Sum of array B is {SumB}. " +
-                              $"\nThe average of array B is {AvgB}");
+            Console.WriteLine($"The count of Array B is {countB}. " +
+                              $"\nThe sum of Array B is {SumB}. " +
+                              $"\nThe average of Array B is {AvgB}");
             ReverseArray(B);
             Rotate(B, 2, false);
 
@@ -44,9 +44,9 @@ namespace programexe06_Juarez
             int countC = C.Length;
             int SumC = C.Sum();
             double AvgC = SumC / countC;
-            Console.WriteLine($"The count of array C is {countC}. " +
-                              $"\nThe Sum of array C is {SumC}. " +
-                              $"\nThe average of array C is {AvgC}");
+            Console.WriteLine($"The count of Array C is {countC}. " +
+                              $"\nThe sum of Array C is {SumC}. " +
+                              $"\nThe average of Array C is {AvgC}");
             ReverseArray(C);
             Rotate(C, 4, true);
             Sort(C);
