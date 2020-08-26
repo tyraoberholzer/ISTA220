@@ -1,0 +1,7 @@
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\bin\Debug\Quiz 05.exe.config
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\bin\Debug\Quiz 05.exe
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\bin\Debug\Quiz 05.pdb
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\obj\Debug\Quiz 05.csprojAssemblyReference.cache
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\obj\Debug\Quiz 05.csproj.CoreCompileInputs.cache
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\obj\Debug\Quiz 05.exe
+C:\Users\Tyra\quantico06\ISTA220\Quizzes\Quiz work\Quiz 05\obj\Debug\Quiz 05.pdb
